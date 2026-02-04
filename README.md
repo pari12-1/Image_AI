@@ -1,6 +1,6 @@
 # 🖼️ Image_AI
 
-An AI-powered image processing backend built with **FastAPI** and **Hugging Face**.  
+An AI-powered image processing backend built with **FastAPI** and **Open router**.  
 This project allows users to upload images and process them using modern machine learning models via a fast API service.
 
 ---
@@ -8,9 +8,10 @@ This project allows users to upload images and process them using modern machine
 ## 🚀 Features
 
 - Upload images via API endpoints  
-- AI processing using Hugging Face models  
+- Using Ai API from open router  
 - Fast and scalable FastAPI backend  
-- Simple and clean project structure  
+- Simple and clean project structure
+- Deployed using render
 
 ---
 
